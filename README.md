@@ -5,7 +5,7 @@ Das System kann zur Gestaltung von Android und iOS Apps und Websistes verwendet 
 Auf [material.io](https://material.io) ist die Doku zu finden, in der die Design Guidelines und die Material Components nachgelesen werden können.
 Die Slides zum e-Portfolio sind hier verlinkt.
 
-In der Demo wird zum erstellen eines Material Themes der MaterialThemeBuilder verwendet, der von
+In der Demo wird zum Erstellen eines Material Themes der MaterialThemeBuilder verwendet, der von
 [Google](https://github.com/material-components) bereitgestellt wird.
 Außerdem werden folgende Tools verwendet:
 - [Color Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
