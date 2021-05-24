@@ -68,16 +68,17 @@ Dazu muss man noch eine fontFamily erzeugen und innerhalb dieser die Schriftarte
 
 Diese FontWeights gibt es:
 
--------- | --------
-100 | Extra Light or Ultra Light
-200 | Light or Thin
-300 | Book or Demi
-400 | Normal or Regular
-500 | Medium
-600 | Semibold, Demibold
-700 | Bold
-800 | Black, Extra Bold or Heavy
-900 | Extra Black, Fat, Poster or Ultra Black
+| | |
+| -------- | -------- |
+| 100   | Extra Light or Ultra Light   |
+| 200   | Light or Thin   |
+| 300   | Book or Demi    |
+| 400   | Normal or Regular   |
+| 500   | Medium   |
+| 600   | Semibold, Demibold    |
+| 700   | Bold   |
+| 800   | Black, Extra Bold or Heavy   |
+| 900   | Extra Black, Fat, Poster or Ultra Black    |
 
 Um android:textFontWeight zu verwenden, muss die minSdkVersion im build.gradle (:app) auf 28 gesetzt werden.
 
