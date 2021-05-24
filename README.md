@@ -69,6 +69,7 @@ Nützliche Tools:
 - [Google Fonts](https://fonts.google.com/)
 - [Type scale generator](https://material.io/design/typography/the-type-system.html?utm_source=Medium&utm_campaign=TE-post#type-scale)
 - [Learn how to add fonts in Android Studio](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
+- [Doku](https://material.io/develop/android/theming/typography)
 
 ## Die letzten Schritte...
 Wenn das Theme fertig ist, kann man die Ressourcen (xml-Files die wir verändert haben, also color.xml, type.xml,... und auch die beiden themes.xml and night/themes.xml)
