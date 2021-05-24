@@ -64,6 +64,20 @@ Auch die Textfarbe (textColor), der Zeichenabstand (letterSpacing) etc. können 
 
 Wenn man keine Schriftart von Google Fonts verwenden möchte, kann man seinem Projekt auch eine andere Schriftart (im ttf-Format)
 hinzufügen und diese im type.xml verwenden. ([Tutorial](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml))
+Dazu muss man noch eine fontFamily erzeugen und innerhalb dieser die Schriftarten, den Style (normal oder italic) und die fontWeight festlegen.
+
+Diese FontWeights gibt es:
+100    Extra Light or Ultra Light
+200    Light or Thin
+300    Book or Demi
+400    Normal or Regular
+500    Medium
+600    Semibold, Demibold
+700    Bold
+800    Black, Extra Bold or Heavy
+900    Extra Black, Fat, Poster or Ultra Black
+
+Um <item name="android:textFontWeight">...</item> zu verwenden, muss die minSdkVersion im build.gradle (:app) auf 28 gesetzt werden.
 
 Nützliche Tools:
 - [Google Fonts](https://fonts.google.com/)
