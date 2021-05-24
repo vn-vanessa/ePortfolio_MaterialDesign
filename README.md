@@ -77,7 +77,7 @@ Diese FontWeights gibt es:
 800    Black, Extra Bold or Heavy
 900    Extra Black, Fat, Poster or Ultra Black
 
-Um <item name="android:textFontWeight">...</item> zu verwenden, muss die minSdkVersion im build.gradle (:app) auf 28 gesetzt werden.
+Um android:textFontWeight zu verwenden, muss die minSdkVersion im build.gradle (:app) auf 28 gesetzt werden.
 
 Nützliche Tools:
 - [Google Fonts](https://fonts.google.com/)
