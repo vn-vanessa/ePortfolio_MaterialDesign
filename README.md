@@ -68,6 +68,7 @@ Dazu muss man noch eine fontFamily erzeugen und innerhalb dieser die Schriftarte
 
 Diese FontWeights gibt es:
 
+-------- | --------
 100 | Extra Light or Ultra Light
 200 | Light or Thin
 300 | Book or Demi
