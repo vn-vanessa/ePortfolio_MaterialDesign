@@ -59,7 +59,7 @@ Nützliche Tools:
 ### type.xml
 Um die Typogarphie des Themes anzupassen, kann man Schriftarten von [Google Fonts](https://fonts.google.com/) kombiniert mit dem
 [Type scale generator](https://material.io/design/typography/the-type-system.html?utm_source=Medium&utm_campaign=TE-post#type-scale) verwenden.
-Der Type scale genarator generiert anhand der ausgweählten Schriftart direkt den passenden Code, der in die type.xml übernommen werden kann.
+Der Type scale genarator generiert anhand der ausgewählten Schriftart direkt den passenden Code, der in die type.xml übernommen werden kann.
 
 Alternativ können auch die fontFamily und die textSize manuell in der type.xml Datei angepasst bzw. verändert werden.
 Auch die Textfarbe (textColor), der Zeichenabstand (letterSpacing) etc. können hier global festgelegt werden.
