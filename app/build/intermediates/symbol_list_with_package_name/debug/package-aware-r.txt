@@ -1085,6 +1085,10 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color primaryColor
+color primaryDarkColor
+color primaryLightColor
+color primaryTextColor
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1102,6 +1106,10 @@ color red_200
 color red_600
 color ripple_material_dark
 color ripple_material_light
+color secondaryColor
+color secondaryDarkColor
+color secondaryLightColor
+color secondaryTextColor
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -1632,6 +1640,10 @@ drawable sample_image
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font futura
+font futura_bold
+font futura_regular
+font futura_thin
 font roboto_black_italic
 id ALT
 id BOTTOM_END

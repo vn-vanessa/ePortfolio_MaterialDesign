@@ -20,7 +20,7 @@
 20    android:versionName="1.0" >
 21
 22    <uses-sdk
-23        android:minSdkVersion="23"
+23        android:minSdkVersion="28"
 23-->C:\Users\Studium\MaterialThemeBuilder\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="30" />
 24-->C:\Users\Studium\MaterialThemeBuilder\app\src\main\AndroidManifest.xml

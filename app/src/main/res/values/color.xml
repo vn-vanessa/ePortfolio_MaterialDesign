@@ -62,4 +62,14 @@
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
 
+    <!-- Plandora Theme -->
+    <color name="primaryColor">#24354e</color>
+    <color name="primaryLightColor">#4f5f7a</color>
+    <color name="primaryDarkColor">#000e26</color>
+    <color name="secondaryColor">#eb6b4d</color>
+    <color name="secondaryLightColor">#ff9c7a</color>
+    <color name="secondaryDarkColor">#b33b23</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
 </resources>

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_sheet_slide_in.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\anim\\bottom_sheet_slide_in.xml"
     },
@@ -16,12 +20,12 @@
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\drawable\\sample_image.png"
     },
     {
-        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_attribute_view_layout.xml.flat",
-        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\color_attribute_view_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_label_view_layout.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\label_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_attribute_view_layout.xml.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\color_attribute_view_layout.xml"
     },
     {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_inbox_24dp.xml.flat",
@@ -48,6 +52,10 @@
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
     },
     {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\font_futura_regular.ttf.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\font\\futura_regular.ttf"
+    },
+    {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_component_dialog.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\component_dialog.xml"
     },
@@ -56,12 +64,12 @@
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_subsystem_color.xml.flat",
-        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\subsystem_color.xml"
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\font_futura_bold.ttf.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\font\\futura_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_subsystem_color.xml.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\subsystem_color.xml"
     },
     {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_colorize_24dp.xml.flat",
@@ -148,6 +156,10 @@
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\font_futura.xml.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\font\\futura.xml"
+    },
+    {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_component_cards.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\component_cards.xml"
     },
@@ -182,6 +194,10 @@
     {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_component_bottom_sheet.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\component_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\font_futura_thin.ttf.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\font\\futura_thin.ttf"
     },
     {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_app_bar_menu.xml.flat",
@@ -244,12 +260,12 @@
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\drawable\\ic_search_control_normal_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_on_secondary_24dp.xml.flat",
-        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\drawable\\ic_add_on_secondary_24dp.xml"
-    },
-    {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_shape_attribute_view_layout.xml.flat",
         "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\layout\\shape_attribute_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_on_secondary_24dp.xml.flat",
+        "source": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\src\\main\\res\\drawable\\ic_add_on_secondary_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Studium\\MaterialThemeBuilder\\app\\build\\intermediates\\res\\merged\\debug\\layout_component_checkbox.xml.flat",
