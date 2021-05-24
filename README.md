@@ -13,12 +13,14 @@ Außerdem werden folgende Tools verwendet:
 - [Shape Tool](https://material.io/design/shape/about-shape.html#shape-customization-tool)
 - [Type Tool](https://material.io/design/typography/the-type-system.html?utm_source=Medium&utm_campaign=TE-post#type-scale)
 
-Um während der Demo mitzumachen, braucht ihr Android Studio und einen Emulator. Anschließend könnt ihr dieses repository clonen.
+Um während der Demo mitzumachen, braucht ihr Android Studio und einen Emulator. Anschließend könnt ihr dieses Repository (master) clonen.
 Am besten vorher einmal in der IDE testen, ob der MaterialThemeBuilder im Emulator funktioniert.
 
 Die Demo bezieht sich auf Matherial Theming für Android, der MaterialThemeBuilder wird aber auch fürs Web auf
 [Glitch](https://glitch.com/~material-theme-builder) bereitgestellt.
 Dort könnt ihr in dem Projekt ähnlich zu der Demo die Werte (Farben, Formen,...) anpassen und so ein Material Theme für eure Website erstellen.
+
+Im Branch demo findet ihr den Ergebnis-Code aus der Demo.
 
 ## Ein Material Theme erstellen/anpassen
 Mit dem MaterialThemeBuilder kann man ein eigenes Materiel Theme erstellen bzw. anpassen.
@@ -63,7 +65,7 @@ Alternativ können auch die fontFamily und die textSize manuell in der type.xml 
 Auch die Textfarbe (textColor), der Zeichenabstand (letterSpacing) etc. können hier global festgelegt werden.
 
 Wenn man keine Schriftart von Google Fonts verwenden möchte, kann man seinem Projekt auch eine andere Schriftart (im ttf-Format)
-hinzufügen und diese im type.xml verwenden. ([Tutorial](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml))
+hinzufügen und diese im type.xml verwenden.
 Dazu muss man noch eine fontFamily erzeugen und innerhalb dieser die Schriftarten, den Style (normal oder italic) und die fontWeight festlegen.
 
 Diese FontWeights gibt es:
@@ -85,7 +87,9 @@ Um android:textFontWeight zu verwenden, muss die minSdkVersion im build.gradle (
 Nützliche Tools:
 - [Google Fonts](https://fonts.google.com/)
 - [Type scale generator](https://material.io/design/typography/the-type-system.html?utm_source=Medium&utm_campaign=TE-post#type-scale)
-- [Learn how to add fonts in Android Studio](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
+- [Downloadable Fonts](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
+- [Fonts in XML](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml))
+- [Font Resources](https://developer.android.com/guide/topics/resources/font-resource)
 - [Doku](https://material.io/develop/android/theming/typography)
 
 ## Die letzten Schritte...
