@@ -3,7 +3,7 @@ Material Design ist ein Designsystem, das 2014 von Google vorgestellt wurde.
 Das System kann zur Gestaltung von Android und iOS Apps und Websistes verwendet werden.
 
 Auf [material.io](https://material.io) ist die Doku zu finden, in der die Design Guidelines und die Material Components nachgelesen werden können.
-Die Slides zum e-Portfolio sind hier verlinkt.
+Die Slides zum e-Portfolio sind [hier](https://github.com/vn-vanessa/ePortfolio_MaterialDesign/blob/7dceb138009013af450e6e2de01788e8d35f5194/e-portfolio%20Material%20Design.pdf) verlinkt.
 
 In der Demo wird zum Erstellen eines Material Themes der MaterialThemeBuilder verwendet, der von
 [Google](https://github.com/material-components) bereitgestellt wird.
