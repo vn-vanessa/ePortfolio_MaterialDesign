@@ -88,7 +88,7 @@ Nützliche Tools:
 - [Google Fonts](https://fonts.google.com/)
 - [Type scale generator](https://material.io/design/typography/the-type-system.html?utm_source=Medium&utm_campaign=TE-post#type-scale)
 - [Downloadable Fonts](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
-- [Fonts in XML](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml))
+- [Fonts in XML](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml)
 - [Font Resources](https://developer.android.com/guide/topics/resources/font-resource)
 - [Doku](https://material.io/develop/android/theming/typography)
 
